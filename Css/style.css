@@ -1,0 +1,27 @@
+body {
+    background-color: cadetblue;
+}
+
+.dark {
+    background-color: black;
+}
+
+.padd {
+    padding: 25px 0 5px 0;
+}
+
+.full {
+    width: 100%;
+}
+
+.marginb {
+    margin-bottom: 50px;
+}
+
+.light {
+    color: white;
+}
+
+.gray {
+    color: lightgrey;
+}
